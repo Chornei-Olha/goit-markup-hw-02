@@ -98,14 +98,14 @@
   .hero .button {
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.9px;
+    line-height: 1.9;
     color: var(--white-color);
     background-color: var(--text-decoration-color);
   }
 
   .hero .button:hover{
     color: var(--white-color);
-    background-color: var(--text-decoration-color);
+    background-color: #188CE8;
   }
 
   /* Заголовки всех секций h1 */
